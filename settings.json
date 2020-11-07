@@ -1,0 +1,11 @@
+{
+    "bot": {
+        "token": "NzU2MjU5NjI3NzE2NDQ0MjMw.X2PPqQ.WaWZFVK_E9HB60veE4bv9t_jwtY",
+        "prefix": "!"
+    },
+    "status": {
+        "name": "with prizes",
+        "type": "PLAYING",
+        "status": "online"
+    }
+}
