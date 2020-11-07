@@ -2,9 +2,9 @@
 This bot was created by St0rm, (F1R3L1GHT). However I will be making modifications to this.
 
 # ✨ Setting Up
-```npm init```
-```npm i ```
-**Fill out stuff in settings.json**
+- [x] ```npm init```
+- [x] ```npm i ```
+- [x] **Fill out stuff in settings.json**
 
 # 🎉 Requirement Giveaway Bot
 This giveaway bot has requirements the member has to finish inorder to join the giveaway.
